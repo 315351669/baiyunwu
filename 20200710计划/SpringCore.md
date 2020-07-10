@@ -2,7 +2,7 @@
 
 
 
-- [Core Technologies.html](Spring Framework\Core Technologies.html) 
+- Core Technologies[Core Technologies.html](./Spring Framework/Core Technologies.html) 
 
 -  [Data Access.html](Spring Framework\Data Access.html) 
 
