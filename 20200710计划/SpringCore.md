@@ -2,19 +2,19 @@
 
 
 
-- Core Technologies[Core Technologies.html](./Spring Framework/Core Technologies.html) 
+-  [CoreTechnologies.html](./SpringFramework/CoreTechnologies.html) 
 
--  [Data Access.html](Spring Framework\Data Access.html) 
+-  [DataAccess.html](SpringFramework\DataAccess.html) 
 
 
--  [Integration.html](Spring Framework\Integration.html) 
+-  [Integration.html](SpringFramework\Integration.html) 
 
--  [Language Support.html](Spring Framework\Language Support.html) 
+-  [LanguageSupport.html](SpringFramework\LanguageSupport.html) 
 
--  [Spring Framework Overview.html](Spring Framework\Spring Framework Overview.html) 
+-  [SpringFramework Overview.html](SpringFramework\SpringFrameworkOverview.html) 
 
--  [Testing.html](Spring Framework\Testing.html) 
+-  [Testing.html](SpringFramework\Testing.html) 
 
--  [Web on Reactive Stack.html](Spring Framework\Web on Reactive Stack.html) 
+-  [WebonReactive Stack.html](SpringFramework\WebonReactiveStack.html) 
 
--  [Web on Servlet Stack.html](Spring Framework\Web on Servlet Stack.html) 
+-  [WebonServletStack.html](SpringFramework\WebonServletStack.html) 
